@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">repaso</string>
+    <string name="name">Calculadora</string>
+    <string name="app_name1">Resultado</string>
+
+    <string name="plain">Ingrese los números separados por COMAS (,)</string>
+
+    <string name="botton">SUMA</string>
+    <string name="botton1">RESTA</string>
+    <string name="botton2">MULTIPLICACIÓN</string>
+    <string name="botton3">DIVISIÓN</string>
+</resources>
